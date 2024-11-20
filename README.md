@@ -60,6 +60,10 @@ kops setup
 
 ![image](https://github.com/user-attachments/assets/ec867e14-b9bc-4171-b286-049733ad2c06)
 
+kubectl version --client --output=yaml
+
+kops version
+
 vi .bashrc
 
 source .bashrc
