@@ -41,4 +41,13 @@ mv kops-linux-amd64 /usr/local/bin/kops
 mv kubectl /usr/local/bin/kubectl
 
 ll
+chmod +x kops-linux-amd64
+
+ll
+
+mv kops-linux-amd64 /usr/local/bin/kops
+
+mv kubectl /usr/local/bin/kubectl
+
+ll
 
