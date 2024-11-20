@@ -54,6 +54,9 @@ mv kops-linux-amd64 /usr/local/bin/kops
 mv kubectl /usr/local/bin/kubectl
 
 ll
+![Screenshot 2024-11-20 214437](https://github.com/user-attachments/assets/090511d5-cd32-434c-a5cf-a64fcb94bbcc)
+
+
 
 
 
