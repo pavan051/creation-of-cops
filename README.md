@@ -64,9 +64,7 @@ kubectl version --client --output=yaml
 
 kops version
 
-vi .bashrc
 
-source .bashrc
-![Screenshot 2024-11-20 221253](https://github.com/user-attachments/assets/7dfdebe0-d8c1-4729-9e0e-f3e13d7200a3)
+
 
 
