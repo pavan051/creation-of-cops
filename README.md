@@ -29,3 +29,6 @@ snap info aws-cli
 snap install aws-cli --channel=v1/stable --classic
 
 curl -LO https://github.com/kubernets/kops/releases/download/v1.25.0/kops-linux-amd64
+
+![Screenshot 2024-11-20 212727](https://github.com/user-attachments/assets/5ebe14fe-7067-41c1-93c6-0f28b0c58b16)
+
