@@ -32,3 +32,13 @@ curl -LO https://github.com/kubernets/kops/releases/download/v1.25.0/kops-linux-
 
 ![Screenshot 2024-11-20 212727](https://github.com/user-attachments/assets/5ebe14fe-7067-41c1-93c6-0f28b0c58b16)
 
+chmod +x kops-linux-amd64
+
+ll
+
+mv kops-linux-amd64 /usr/local/bin/kops
+
+mv kubectl /usr/local/bin/kubectl
+
+ll
+
