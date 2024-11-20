@@ -63,6 +63,8 @@ kops setup
 kubectl version --client --output=yaml
 
 kops version
+![Screenshot 2024-11-20 222122](https://github.com/user-attachments/assets/5b97e271-11bb-4933-9e2f-10a6b66177d5)
+
 
 
 
